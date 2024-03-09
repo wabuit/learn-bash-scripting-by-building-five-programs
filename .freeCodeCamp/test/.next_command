@@ -65,3 +65,4 @@ QUESTION1="What's your name?"
 ./questionnaire.sh
 echo --help
 man echo
+./questionnaire.sh
