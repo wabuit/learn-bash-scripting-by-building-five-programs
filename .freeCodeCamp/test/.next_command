@@ -53,3 +53,5 @@ which bash
 ./questionnaire.sh
 ll
 ls --color=auto -l
+chmod+x questionnaire.sh
+chmod +x questionnaire.sh
