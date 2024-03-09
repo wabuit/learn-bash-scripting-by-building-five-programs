@@ -59,3 +59,4 @@ ls --color=auto -l
 ./questionnaire.sh
 ./questionnaire.sh
 QUESTION1="What's your name?"
+./questionnaire.sh
