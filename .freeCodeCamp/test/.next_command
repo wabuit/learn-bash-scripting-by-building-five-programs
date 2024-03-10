@@ -188,3 +188,4 @@ declare -p ARR
 help function
 help
 help function
+./fortune.sh
