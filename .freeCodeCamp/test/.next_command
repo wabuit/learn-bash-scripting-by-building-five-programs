@@ -131,3 +131,4 @@ help
 ls --color=auto /
 ls --color=auto /bn
 ls --color=auto /bin
+man sleep
