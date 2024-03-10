@@ -213,3 +213,5 @@ __vsc_prompt_cmd_original
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh
+help Until
+help UNTIL
