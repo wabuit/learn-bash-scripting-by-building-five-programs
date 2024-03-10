@@ -194,3 +194,6 @@ help
 help until
 ./fortune.sh
 help [[ expression ]]
+[[ -n hello==hello ]]
+[[ hello == hello ]]
+[[ hello == hello ]]
