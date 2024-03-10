@@ -113,3 +113,9 @@ help test
 bad_file.txt
 __vsc_prompt_cmd_original
 [[ -a bad_file.txt ]]
+ls --color=auto -l countdown.sh
+[[ -a countdown.sh ]]
+help test
+help [[ expression ]]
+help test
+[[ -x countdown.sh ]]
